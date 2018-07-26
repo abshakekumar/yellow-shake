@@ -1,0 +1,22 @@
+{
+    "name": "yellow-shake",
+    "displayName": "Yellow Shake",
+    "description": "dummy theme",
+    "version": "0.0.1",
+    "publisher": "test",
+    "engines": {
+        "vscode": "^1.25.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Yellow Shake",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Yellow Shake-color-theme.json"
+            }
+        ]
+    }
+}

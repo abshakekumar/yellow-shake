@@ -2,16 +2,56 @@
 	"name": "Yellow Shake",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#21748d",
-		"editor.foreground": "#554d05",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editor.background": "#ffffff",
+		"editor.foreground": "#24292e",
+		"editorLineNumber.foreground": "#ccc",
+		"editorIndentGuide.background": "#eee",
+		"editorBracketMatch.background": "#f1f8ff",
+		"editorBracketMatch.border": "#c8e1ff",
+		"editor.lineHighlightBackground": "#fffbdd",
+		"focusBorder": "#fafbfc",
+
+		// Activitybar
+		"activityBar.background": "#24292e",
+
+		// Sidebar
+		"sideBar.background": "#fafbfc",
+		"sideBar.foreground": "#586069",
+		"sideBar.border": "#ddd",
+		"sideBarTitle.foreground": "#24292e",
+		"sideBarSectionHeader.background": "#fafbfc",
+		"sideBarSectionHeader.foreground": "#24292e",
+
+		// Statusbar
+		"statusBar.foreground": "#24292e",
+		"statusBar.background": "#fafbfc",
+		"statusBar.border": "#ddd",
+		"statusBar.noFolderForeground": "#24292e",
+		"statusBar.noFolderBackground": "#fafbfc",
+		"statusBar.debuggingForeground": "#24292e",
+		"statusBar.debuggingBackground": "#fafbfc",
+
+		// Notification
+		// "notification.background": "#54a3ff"
+		// "editor.background": "#207b7b",
+		// "editor.foreground": "#c1b012",
+		// "activityBarBadge.background": "#207b7b",
+		// "sideBarTitle.foreground": "#72680d",
+		// "sideBar.background" : "#207b7b",
+		// "sideBar.foreground" : "#c1b012",
+		// "sideBar.border" : "#025c50",
+		// "sideBarSectionHeader.background" : "#025c50",
+		// "sideBarSectionHeader.foreground" : "#3d103b"
+	},
+	"dropdown": {
+		"background": "#207b7b",
+		"foreground": "#c1b012"
 	},
 	"tokenColors": [
 		{
 			"settings": {
-				"foreground": "#eeffffff",
-				"background": "#263238ff"
+				"foreground": "#207b7b",
+				"background": "#c1af12a8"
 			}
 		},
 		{
@@ -22,7 +62,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#b3a208b3"
 			}
 		},
 		{
@@ -32,7 +72,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#207b7b",
 			}
 		},
 		{

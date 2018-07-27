@@ -28,6 +28,23 @@
 		"button.foreground" : "#ffffff",
 		"button.hoverBackground" : "#007d51",
 
+		"dropdown.background" : "#852b2b",
+		"dropdown.listBackground" : "#ffffff",
+		"dropdown.border" : "#007d51",
+		"dropdown.foreground" : "#007d51",
+
+		"input.background" : "#852b2b",
+		"input.placeholderForeground" : "#ffffff",
+		"input.border" : "#007d51",
+		"input.foreground" : "#007d51",
+		"inputOption.activeBorder" : "#852b2b",
+		"inputValidation.errorBackground" : "#ffffff",
+		"inputValidation.errorBorder" : "#007d51",
+		"inputValidation.infoBackground" : "#852b2b",
+		"inputValidation.infoBorder" : "#ff0000",
+		"inputValidation.warningBackground" : "#007d51",
+		"inputValidation.warningBorder" : "#ff0000",
+
 		// Activitybar
 		// "activityBar.background": "#24292e",
 

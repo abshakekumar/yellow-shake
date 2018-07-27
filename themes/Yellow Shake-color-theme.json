@@ -24,6 +24,10 @@
 		"textPreformat.foreground" : "#ff0000",
 		"textSeparator.foreground" : "#852b2b",
 
+		"button.background" : "#852b2b",
+		"button.foreground" : "#ffffff",
+		"button.hoverBackground" : "#007d51",
+
 		// Activitybar
 		// "activityBar.background": "#24292e",
 
